@@ -1,6 +1,6 @@
-#### Multi-behavior Recommendation with Hierarchical Graph Convolutional Network
+#### Dual-Module Collaborative Contrastive Learning for Multi-Behavior Recommendation
 
-This is an implementation of MB-HGCN on Python 3
+This is an implementation of DMRec on Python 3
 
 
 
